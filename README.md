@@ -6,7 +6,7 @@ With the rapid development of the offshore wind power industry in recent years, 
 
 一、我们提供了以下一些数据：
   1. 模型训练权重：
-  2. 测试影像：
+  2. 测试影像（部分）：
   3. 多模态样本数据集：
   4. 全球五个测试地区的RGB影像和预测结果及其矢量化数据：
 
