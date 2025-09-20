@@ -5,10 +5,9 @@ With the rapid development of the offshore wind power industry in recent years, 
 
 
 一、我们提供了以下一些数据：
-  1. 模型训练权重：
-  2. 测试影像（部分）：
-  3. 多模态样本数据集：
-  4. 全球五个测试地区的RGB影像和预测结果及其矢量化数据：
+  1. [OWT-DNet模型训练权重](https://drive.google.com/file/d/1f8TFYgmIKAbe3txAnvjTC246K1S5wm0u/view?usp=drive_link)
+  2. [部分测试影像](https://drive.google.com/file/d/1BCXfhZODQZ-9NzyDDZoFW-lI5eCB-w8W/view?usp=drive_link)（如下图所示）
+  3. [全球五个测试地区的RGB影像]()和[预测结果及其矢量化数据](https://drive.google.com/file/d/1YzixTQumdinuzVy-m4oZm9KeZkazKKei/view?usp=drive_link)
 
 二、说明
 
@@ -16,8 +15,6 @@ With the rapid development of the offshore wind power industry in recent years, 
     我们提供了一些影像以便测试模型的性能，当然您也可以自己制作一些影像做测试。这里选择了C测试区（中国南通市附近海域）的9个512*512大小的影像，位置分布如下图，代表了该地区OWT分布特点，每个影像有5个波段（VV、VH、B2、B3、B8）.
 ![image](https://github.com/GZ200122/OWT_DNet/blob/main/Location%20map%20of%20the%209%20test%20images%20at%20Image%20C%20(waters%20near%20Nantong%20City%2C%20China).jpg)
 
-  2.多模态样本数据集：
-    每个样本有5个波段，分别是Sentinel-1GRD产品的VV、VH波段和Sentinel-2影像的B2、B3、B8波段。
     
   3.全球五个测试地区的RGB影像说明：
-    由于完整的多模态影像数量太大了，因此这里给大家提供对应的RGB影像便于查看，如果需要对应的多模态影像，可以参照论文中的表1时间点下载。
+    由于完整的多模态影像数量太大了，因此这里给大家提供对应的RGB影像便于查看，如果需要对应的多模态影像，可以参照论文中的表1时间点进行下载。
